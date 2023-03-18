@@ -24,7 +24,7 @@ maintenance = { status = "actively-developed" }
 yarte_strnom = { version = "0.0", path = '../yarte_strnom' }
 
 quote = "1.0"
-syn = { version = "1.0", features = ["full", "extra-traits"] }
+syn = { version = "2.0", features = ["full", "extra-traits"] }
 proc-macro2 = { version = "1.0", features = ["span-locations"] }
 
 annotate-snippets = { version = "0.9", features = ["color"] }
